@@ -1,0 +1,7 @@
+.DS_Store
+venv/venv/
+__pycache__/
+seed.py
+keys.py
+sous-chef-db-schema.png
+Sous-Chef-Proposal.txt

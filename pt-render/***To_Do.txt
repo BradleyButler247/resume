@@ -1,0 +1,10 @@
+Encrypt local user
+Fix error handler
+Token table resize
+Category table resize
+Profile table resize
+Size loading icon
+Asset details resize
+Flash message
+No trades on profile page layout
+profile edit form auto fill

@@ -1,0 +1,8 @@
+.DS_Store
+venv/venv/
+.vscode/
+__pycache__/
+seed.py
+keys.py
+/Users/bradley/Desktop/VSCode/Course/Capstone-1/Sous-Chef-Proposal.txt
+/Users/bradley/Desktop/VSCode/Course/Capstone-1/sous-chef-db-schema.png
